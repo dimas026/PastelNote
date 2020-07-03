@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71997048863",
+    "firebase_url": "https://pastel-note-2.firebaseio.com",
+    "project_id": "pastel-note-2",
+    "storage_bucket": "pastel-note-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71997048863:android:598e0bfc2348a11601ad2a",
+        "android_client_info": {
+          "package_name": "com.example.android.pastelnote2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71997048863-hv2rpqt1jqrbhga2figecp9ir8ia6u7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.pastelnote2",
+            "certificate_hash": "7faf6d9c15c863646a44f4e8662dc5ae1c623843"
+          }
+        },
+        {
+          "client_id": "71997048863-4b6p4rpsuon34nvq8pd2vgg2cq1v6i3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57SMHKpydZHNulMTP2PY7rG7qCuXe6i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71997048863-4b6p4rpsuon34nvq8pd2vgg2cq1v6i3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
